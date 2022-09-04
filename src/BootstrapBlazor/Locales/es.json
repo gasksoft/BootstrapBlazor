@@ -243,7 +243,7 @@
     "DeleteButtonToastContent": "Seleccione ELIMINAR filas, cierre automático después de {0} segundos",
     "DeleteButtonToastResultContent": "Eliminar datos {0}, cierre automático después de {1} segundos",
     "DeleteButtonToastCanNotDeleteContent": "Hay datos que no se pueden eliminar en los datos seleccionados, cierre automático después de {0} segundos",
-    "DataServiceInvalidOperationText": "No se puede proporcionar un valor para la propiedad 'DataService' en el tipo 'BootstrapBlazor.Components.Table`1[[{0}]]'. No hay ningún servicio registrado del tipo 'BootstrapBlazor.Components.IDataService`1[{ 0}]'.",
+    "DataServiceInvalidOperationText": "No se puede proporcionar un valor para la propiedad 'DataService' en el tipo 'BootstrapBlazor.Components.Table`1[[{0}]]'. No hay ningún servicio registrado del tipo 'BootstrapBlazor.Components.IDataService`1[{0}]'.",
     "NotSetOnTreeExpandErrorMessage": "parámetro OnTreeExpand no establecido",
     "UnsetText": "Asc",
     "SortAscText": "Desc",
